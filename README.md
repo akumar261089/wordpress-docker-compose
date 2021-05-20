@@ -7,6 +7,10 @@
 Workpress URL `localhost:8000`
 
 phpmyadmin URl `localhost:8080`
+## Stop Cluster
+```
+docker-compose stop
+```
 
 ## To Tear Down
 ``` 
